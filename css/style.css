@@ -10,3 +10,33 @@ h1{
   padding: 10px;
   margin: 10px;
 }
+
+.form{
+  text-align: center;
+  width: 100%;
+  padding: 6px;
+}
+
+form{
+  text-align: center;
+}
+
+label{
+  padding: 5px;
+  font-family: Helvetica;
+  background-color: #444;
+  color: white;
+}
+
+input[type=number]{
+  background-color: #99ccff;
+  margin: 10px;
+  border: none;
+  padding: 5px;
+  border-bottom: 2px solid red;
+}
+
+button{
+  padding: 5px;
+  font-weight: bold;
+}
