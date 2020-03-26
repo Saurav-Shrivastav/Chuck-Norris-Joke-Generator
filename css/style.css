@@ -40,3 +40,11 @@ button{
   padding: 5px;
   font-weight: bold;
 }
+
+.output{
+  text-align: left;
+  background-color: black;
+  color: white;
+  padding: 5px;
+  font-family: sans-serif;
+}
